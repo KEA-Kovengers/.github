@@ -1,12 +1,26 @@
-## Hi there 👋
+# KEA 4기 TEAM Kovengers
 
-<!--
+<img width="300" alt="image" src="https://avatars.githubusercontent.com/u/162533365?s=200&v=4">
 
-**Here are some ideas to get you started:**
+## ℹ Introduction
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+가천대학교 SW아카데미 4기 팀 Kovengers입니다.
+
+저희의 프로젝트는 실시간 동시 편집 블로그 서비스 "NewCord"입니다.
+
+## 🕰 Development period
+* 24.03.04 - 2024.06.12
+
+## 📍 Repository
+
+
+
+## 🧑‍🤝‍🧑 Member
+
+|정성훈|박현서|남소미|이소정|김미소|윤혜원|변상연|
+|------|---|---|---|---|---|---|
+|<a href="https://github.com/wooing1084"><img src="https://avatars.githubusercontent.com/u/32007781?v=4" height="120px"></a> |<a href="https://github.com/hspark-1"><img src="https://avatars.githubusercontent.com/u/105943940?v=4" height="120px"></a> |<a href="https://github.com/somi4219"><img src="https://avatars.githubusercontent.com/u/125250173?v=4" height="120px"></a>|<a href="https://github.com/2sojeong"><img src="https://avatars.githubusercontent.com/u/118418288?v=4" height="120px"></a>|<a href="https://github.com/bamb14"><img src="https://avatars.githubusercontent.com/u/118671229?v=4" height="120px"></a>|<a href="https://github.com/iey704"><img src="https://avatars.githubusercontent.com/u/105503671?v=4" height="120px"></a>|<a href="https://github.com/ideawolf"><img src="https://avatars.githubusercontent.com/u/45937750?v=4" height="120px"></a>|
+|PM|Backend|Backend|Backend|Frontend|Frontend|Infra|
+
+
+
