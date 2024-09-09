@@ -13,7 +13,29 @@
 
 ## 📍 Repository
 
+1. [NewCord-FrontEnd](https://github.com/KEA-Kovengers/Frontend)
+   - **설명:** NewCord Frontend 레포지토리
+   - 🖥 Build With
+      - Langauge: JavaScript
+      - Frameworks: React 18.3.1
 
+2. [NewCord-BackEnd](https://github.com/KEA-Kovengers/Backend)
+   - **설명:** NewCord Backend 레포지토리. MSA Spring boot 모노래포
+   - 🖥 Build With
+      - Langauge: Java
+      - Frameworks: Springboot 3.2.4
+    
+2. [NewCord-BackEnd](https://github.com/KEA-Kovengers/Backend)
+   - **설명:** NewCord Backend 레포지토리. MSA Spring boot 모노래포
+   - 🖥 Build With
+      - Langauge: Java
+      - Frameworks: Springboot 3.2.4
+
+3. [NewCord-FastAPI](https://github.com/KEA-Kovengers/FastAPI)
+   - **설명:** NewCord Backend 레포지토리. AI서비스를 위한 FastAPI 서버
+   - 🖥 Build With
+      - Langauge: Python
+      - Frameworks: FastAPI 0.110.0
 
 ## 🧑‍🤝‍🧑 Member
 
